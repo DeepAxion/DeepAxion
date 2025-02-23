@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖  I'm a CompSci major with a big interest in AI and Machine Learning.<br>📊 Currently working on validating NASA's Wildfire Digital Twin. <br>🚀 Always exploring, building, and pushing my limits in my field!<br>🥊 When I’m not coding, you’ll find me boxing or strumming my lovely guitar! 🎸
+🤖  I'm a CompSci major with a big interest in AI and Machine Learning.<br>🛰️ Currently working on validating NASA's Wildfire Digital Twin. <br>🚀 Always exploring, building, and pushing my limits in my field!<br>🥊 When I’m not coding, you’ll find me boxing or strumming my lovely guitar! 🎸
 
 
 ## 🌐 Socials:
