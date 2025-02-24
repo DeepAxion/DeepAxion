@@ -1,8 +1,8 @@
 # 💫 About Me:
 <p><strong>🤖 Computer Science & AI Enthusiast</strong></p>
-<p><strong>🛰️ Currently working on validating <span style="color:#FF5733;">NASA's Wildfire Digital Twin</span>.</strong></p>
-<p><strong>🚀 Always exploring, building, and pushing my limits in the field of AI & ML!</strong></p>
-<p><strong>🥊 When I’m not coding, you’ll find me <span style="color:#1E90FF;">boxing</span> or strumming my <span style="color:#FFD700;">guitar</span>! 🎸</strong></p>
+<p><strong>🛰️ Currently working on validating **NASA's Wildfire Digital Twin**</span>.</strong></p>
+<p><strong>🚀 Always exploring, building, and pushing my limits in the field of **AI & ML**!</strong></p>
+<p><strong>🥊 When I’m not coding, you’ll find me **boxing** or strumming my **guitar**</span>! 🎸</strong></p>
 
 
 ## 🌐 Socials:
