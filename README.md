@@ -19,7 +19,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=DeepAxion&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepAxion&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepAxion&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width=400/>
     </td>
   </tr>
 </table>
