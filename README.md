@@ -1,8 +1,12 @@
 # 💫 About Me:
-<p style="font-size: 20px"><strong>🤖 AI Research Assitant at CARTA Lab x NASA</strong></p>
-<p style="font-size: 20px"><strong>🛰️ Currently working on validating NASA's Wildfire Digital Twin</span>.</strong></p>
-<p style="font-size: 20px"><strong>🚀 Always exploring, building, and pushing my limits in the field of AI & ML!</strong></p>
-<p style="font-size: 20px"><strong>🥊 When I’m not coding, you’ll find me boxing or strumming my guitar</span>! 🎸</strong></p>
+<!-- <p><strong>🤖 AI Research Assitant at CARTA Lab x NASA</strong></p>
+<p><strong>🛰️ Currently working on validating NASA's Wildfire Digital Twin</span>.</strong></p>
+<p><strong>🚀 Always exploring, building, and pushing my limits in the field of AI & ML!</strong></p>
+<p><strong>🥊 When I’m not coding, you’ll find me boxing or strumming my guitar</span>! 🎸</strong></p> -->
+### 🤖 AI Research Assitant at CARTA Lab x NASA
+### 🛰️ Currently working on validating NASA's Wildfire Digital Twin
+### 🚀 Always exploring, building, and pushing my limits in the field of AI & ML
+### 🥊 When I’m not coding, you’ll find me boxing or strumming my guitar 🎸
 
 
 # 🌐 Socials
