@@ -1,8 +1,8 @@
 # 💫 About Me:
-<p><strong>🤖 Computer Science & AI Enthusiast</strong></p>
-<p><strong>🛰️ Currently working on validating NASA's Wildfire Digital Twin</span>.</strong></p>
-<p><strong>🚀 Always exploring, building, and pushing my limits in the field of AI & ML!</strong></p>
-<p><strong>🥊 When I’m not coding, you’ll find me boxing or strumming my guitar</span>! 🎸</strong></p>
+<p style="font-size: 20px"><strong>🤖 AI Research Assitant at CARTA Lab x NASA</strong></p>
+<p style="font-size: 20px"><strong>🛰️ Currently working on validating NASA's Wildfire Digital Twin</span>.</strong></p>
+<p style="font-size: 20px"><strong>🚀 Always exploring, building, and pushing my limits in the field of AI & ML!</strong></p>
+<p style="font-size: 20px"><strong>🥊 When I’m not coding, you’ll find me boxing or strumming my guitar</span>! 🎸</strong></p>
 
 
 # 🌐 Socials
@@ -19,7 +19,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=DeepAxion&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepAxion&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width=400/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepAxion&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width=380/>
     </td>
   </tr>
 </table>
